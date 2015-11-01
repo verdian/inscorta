@@ -1,0 +1,1 @@
+A e-commerce solution based on the codeigniter framework. It will not hack the framework but it is an application on top of this framework.

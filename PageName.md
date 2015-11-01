@@ -1,0 +1,36 @@
+# Introduction #
+
+Add your content here.
+
+
+# Features #
+
+  * Fast
+  * Easy development structure
+  * No Hacking in CodeIgniter
+  * Admin and front end separated
+  * Unlimited items
+  * Unlimited categories
+  * Admin interface to manage your shop
+  * Integrable with any payment module with fail fall back
+  * Grid view
+  * User account generation
+  * Deliver and Invoice address
+  * Twitter messaging
+  * Multiple images per item
+  * Item relations
+
+# Installation #
+> I figure you have experience with codeigniter which is a great php framework. I use terminology which is normal to any CI user but will be unclear to others.
+
+The solution actually contains two CodeIgniter applications.
+#Import the sql file to the database.
+#Configure the settings in:
+#**application/config
+#**admin/application/config
+
+That is it! It should work now.
+
+Things to know are:
+**I am currently setting up a system to support multiple languages but this first version released still does not support it so there will be lot's of dutch.**I'm also very busy with my job so if things don't go fast enough please mail your improvements to me.
+**It is based upon an older version of codeigniter. However it should still work on newer version. Just replace the system directory.**It was made for a specific purpose so it might not be to your wishes. Please suggest improvements and bug fixes to me but don't expect miracles.
